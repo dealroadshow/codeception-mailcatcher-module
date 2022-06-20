@@ -1,6 +1,6 @@
 {
-    "name": "captbaritone/mailcatcher-codeception-module",
-    "description": "Test emails in your Codeception acceptance tests",
+    "name": "dealroadshow/mailcatcher-codeception-module",
+    "description": "Test emails in your Codeception acceptance tests fork",
     "license": "MIT",
     "authors": [
         {
